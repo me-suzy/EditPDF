@@ -1,0 +1,7 @@
+Daca fisierele au semnatura, trebuie mai intai sa le salvezi astfel:
+
+Metoda 3 - Print to PDF:
+
+Ctrl+P (Print)
+Alege "Adobe PDF" ca printer
+Print - aceasta creează un PDF nou complet fără XFA
